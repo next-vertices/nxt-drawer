@@ -531,3 +531,5 @@ Toute copie, reproduction, redistribution, diffusion, modification, rétro-ingé
 Le logiciel est fourni gratuitement pour un usage personnel, tel que publié dans les [Releases](https://github.com/next-vertices/nxt-drawer/releases) ; cela n'accorde aucune licence ni aucun droit au-delà de cet usage. Il est fourni « en l'état », sans garantie d'aucune sorte.
 
 Les composants tiers conservent leur propre licence (par exemple, les polices Inter et JetBrains Mono embarquées sont sous SIL Open Font License 1.1).
+
+<img src="https://umami.next-vertices.com/p/CZoWak1nP" alt="" width="1" height="1" />
